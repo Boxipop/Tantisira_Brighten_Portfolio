@@ -1,5 +1,8 @@
 # Data Science Portfolio
 
+## About Me
+
+
 #### Technical Skills: Python, SQL, C++
 ####[Resume]
 
