@@ -11,4 +11,4 @@ Welcome to my portfolio! I'm Brighten, a current sophomore at Stanford Universit
 As a final project for a data science class, I along with a partner analyzed investments trends of various climate tech startups since 2016. Some questions we set out to address were: How has the number of investments in different climate sector startups changed within the past three presidencies? What language commonly appears in each startup’s startup descriptions? Are there patterns in investment timing that correlate with major climate or policy events? 
 
 ### [Anime Recommender](https://github.com/Boxipop/Anime-Recommender)
-I created a [web application](https://anime-recommender-application.streamlit.app/) that recommends anime based off a KNearestNeighbors (KNN) machine learning algorithm.
+Built a full-stack machine learning [web application](https://anime-recommender-application.streamlit.app/) that uses K-Nearest Neighbors (KNN) to suggest anime based on user preferences. 
