@@ -13,5 +13,6 @@ As a final project for a data science class, I along with a partner analyzed inv
 ### [Anime Recommender](https://github.com/Boxipop/Anime-Recommender)
 Built a full-stack machine learning [web application](https://anime-recommender-application.streamlit.app/) that uses **K-Nearest Neighbors (KNN)** to suggest anime based on user preferences. The model takes in an anime from the user and returns the top 10 most similar anime based off the following features: Demographics (e.g. Shonen), Themes (e.g. Time Travel), Genres (e.g. Action), Synopsis, Studio, and Anime Type (e.g. Series, Movie). All anime data was obtained through Jikan, an unofficial and open-source API for MyAnimeList (the world's most active online anime and manga community and database). For a full explanation and walkthrough of the entire process, please refer to the README file.
 
+![anime_example_image](/images/Screenshot 2025-12-31 145910.png)
 
 ### [Nighttime Noise Pollution and Mental Health Across Various Communities](https://github.com/Boxipop/Nighttime-noise-and-mental-health) **In Progress
