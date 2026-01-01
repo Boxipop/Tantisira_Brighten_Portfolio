@@ -4,7 +4,7 @@
 Welcome to my portfolio! I'm Brighten, a current sophomore at Stanford University who is passionate about technology, data science, and machine learning. With a backgroud in data science and astronomy research, I'm well-equipped with a technical skillset and an eagerness to explore!
 
 #### Technical Skills: Python (including Machine Learning, Data Collection, Wrangling, Analysis, and Visualization), SQL, and C++
-[Resume](https://drive.google.com/drive/u/0/folders/1T7EclJUMWxNqbjG6Zxu86IfbCsvDyzvt)
+[Resume](https://drive.google.com/file/d/16MQItLp197wN30TZyagvKtX5fiShsjNJ/view?usp=drive_link)
 
 ## Projects
 ### [Analyzing Investment Trends of Climate Tech Startups Since 2016](https://github.com/Boxipop/Investment-Trends-of-Climate-Tech-Startups-Since-2016)
