@@ -17,4 +17,4 @@ Built a full-stack machine learning [web application](https://anime-recommender-
 
 ![anime_example_image](/images/Screenshot 2025-12-31 145910.png)
 
-### [Nighttime Noise Pollution and Mental Health Across Various Communities](https://github.com/Boxipop/Nighttime-noise-and-mental-health) **In Progress
+
