@@ -1,9 +1,9 @@
 # Data Science Portfolio
 
 ## About Me
-Welcome to my portfolio! I'm Brighten, a current sophomore at Stanford University who is passionate about technology, data science, and machine learning. With a backgroud in data science and astronomy research, I'm well-equipped with a technical skillset and an eagerness to explore!
+Welcome to my portfolio! I'm Brighten, a current junior at Stanford University who is passionate about human-centered technology, data science, and machine learning. With a background in data science and astronomy research, I'm well-equipped with a technical skillset and an eagerness to explore!
 
-#### Technical Skills: Python (including Machine Learning, Data Collection, Wrangling, Analysis, and Visualization), SQL, and C++
+#### Technical Skills: Python (including Machine Learning, Data Collection, Wrangling, Analysis, and Visualization), SQL, R, and C++
 [Resume](https://drive.google.com/file/d/16MQItLp197wN30TZyagvKtX5fiShsjNJ/view?usp=drive_link)
 
 ## Projects
