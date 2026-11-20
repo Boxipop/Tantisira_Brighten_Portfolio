@@ -30,7 +30,7 @@ During my ten-week internship at Kotozna, an AI technology company based in Toky
 
 - **Backend Development & Infrastructure:** Worked with AWS servers, SQL databases, GraphQL, REST APIs, and Git to configure development environments, manage database operations, and implement backend functionality.
 
-- **Business Development:** Represented Kotozna at the IVS startup conference in Kyoto, collaborating with the sales team to pitch the company's AI products and engage with prospective clients.
+- **Business Development:** Represented Kotozna at the Infinity Ventures Summit startup conference in Kyoto (one of Japan's largest startup conferences), collaborating with the sales team to pitch the company's AI products and engage with prospective clients.
 
 This internship strengthened my experience in AI systems, software engineering, and collaborative problem-solving, while teaching me the importance of designing technology around the people who will actually use it.
 
