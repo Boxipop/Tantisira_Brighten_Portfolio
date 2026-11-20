@@ -20,11 +20,11 @@ Through my projects and experiences, I enjoy exploring how data and technology c
 ### Software Developer Intern | Kotozna
 **Tokyo, Japan | June 2026 – August 2026**
 
-During my ten-week internship at Kotozna, an AI technology company based in Tokyo, Japan, I worked on projects spanning AI-powered test automation, conversational AI development, and backend infrastructure. Working in an international startup environment gave me the opportunity to apply my technical skills to real-world problems while collaborating with developers and business teams.
+During my ten-week internship at Kotozna, an AI technology company based in Tokyo, Japan, I worked on projects spanning AI-powered test automation, conversational AI development, and backend infrastructure. Working in an international startup environment gave me the opportunity to apply my technical skills to real-world problems while collaborating with a diverse set of developers and clients.
 
 **Key Projects & Contributions:**
 
-- **AI-Powered Test Automation:** Developed an automated QA testing framework using Playwright, Stagehand, and Docker to reduce reliance on repetitive manual testing. Integrated an AI agent that allows nontechnical team members to create and execute browser-based tests through natural-language instructions, along with Slack notifications for failed tests.
+- **AI-Powered Test Automation:** Developed an automated QA testing framework using Playwright, Stagehand, and Docker to reduce reliance on repetitive manual testing. Integrated an AI agent that allows non-technical team members to create and execute browser-based tests through natural-language instructions, along with Slack notifications for failed tests.
 
 - **Conversational AI Development:** Contributed to the development of AI Jota, a whiskey-focused conversational AI chatbot for Kirin. Created knowledge graphs across 40 whiskey-related domains, organized 80 knowledge categories, and refined the chatbot's conversational responses for clarity, humor, and naturalness.
 
